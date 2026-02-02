@@ -1,6 +1,6 @@
 # 💻🛜 Programme d'apprentissage Cyber autodidacte
 
-### 4 plateforme d’apprentissage :
+### 4 plateformes d’apprentissage :
 * **TryHackMe** -> Formation principale pour la cybersécurité (modules théoriques accompagné de travaux pratique de validation)
 * **HackTheBox** -> Plateforme pour la mise en pratique concrète (entraînements). Tout ce qui est CTFs / Box.
 * **Cisco Networking Academy** -> Plateforme de cours théoriques approfondies pour le réseau/la cybersécurité/le hacking éthique.
@@ -32,7 +32,7 @@
 
 
 ### HackTheBox
-* **Starting Point**
+* **Starting Point** [free box]
     * **Tier 0**
         * Meow
         * Fawn
